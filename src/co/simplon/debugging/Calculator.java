@@ -39,7 +39,7 @@ public class Calculator {
 	int difference = calc.subtract(num1, num2);
 	System.out.println("Difference: " + difference);
 
- a	int sumArray = calc.addArray(numbers);
+	int sumArray = calc.addArray(numbers);
 	System.out.println(
 		"Sum of array numbers: " + sumArray);
 
